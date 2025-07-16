@@ -1,7 +1,3 @@
-# 💫 About Me:
-A couple of projects I'm working on:<br>- Workbook<br>- My website<br>- Extra Origins Ascended 
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Rad_Quincy#5975) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21669239) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/rad_quincy) 
 
